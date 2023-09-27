@@ -1,0 +1,14 @@
+Necesitamos que instales el generador de proyectos de nestjs que es el siguiente comando
+    npm i -g @nestjs/cli
+
+para ver la version
+    nest -v
+
+Para crear la aplicacion es con
+    nest new NombreDeLaAplicacion
+
+Para generar cosas como modulos,etc puedes ver las opciones con
+    nest --help
+
+Recuerda debes de crear:
+ modulo,controlladores,servicios son los mas comunes
